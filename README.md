@@ -31,4 +31,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/yeschirag/leetcode-submissions/tree/master/1277-count-square-submatrices-with-all-ones) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/yeschirag/leetcode-submissions/tree/master/0110-balanced-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/yeschirag/leetcode-submissions/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/yeschirag/leetcode-submissions/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
