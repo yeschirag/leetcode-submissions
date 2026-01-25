@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yeschirag/leetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/yeschirag/leetcode-submissions/tree/master/0110-balanced-binary-tree) |
+| [0547-number-of-provinces](https://github.com/yeschirag/leetcode-submissions/tree/master/0547-number-of-provinces) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/yeschirag/leetcode-submissions/tree/master/1376-time-needed-to-inform-all-employees) |
 ## Binary Tree
 |  |
@@ -52,5 +53,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yeschirag/leetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/yeschirag/leetcode-submissions/tree/master/0547-number-of-provinces) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/yeschirag/leetcode-submissions/tree/master/1376-time-needed-to-inform-all-employees) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/yeschirag/leetcode-submissions/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/yeschirag/leetcode-submissions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
