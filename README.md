@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/yeschirag/leetcode-submissions/tree/master/0733-flood-fill) |
+| [1200-minimum-absolute-difference](https://github.com/yeschirag/leetcode-submissions/tree/master/1200-minimum-absolute-difference) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/yeschirag/leetcode-submissions/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Dynamic Programming
 |  |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/yeschirag/leetcode-submissions/tree/master/0547-number-of-provinces) |
+## Sorting
+|  |
+| ------- |
+| [1200-minimum-absolute-difference](https://github.com/yeschirag/leetcode-submissions/tree/master/1200-minimum-absolute-difference) |
 <!---LeetCode Topics End-->
